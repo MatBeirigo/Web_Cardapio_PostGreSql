@@ -1,0 +1,44 @@
+﻿@model WebCardapioSQL.Models.Bebida
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="~/css/DesignToken.css">
+    </head>
+
+    <body class="body-bebidas">
+        <h1>Deletar</h1>
+        <hr />
+        <div>
+            <dl class="row">
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.Nome)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.Nome)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.Preco)
+                </dt>
+                <dd class = "col-sm-10">
+                    R$ @Html.DisplayFor(model => model.Preco)
+                </dd>
+            </dl>
+            <div class="row">
+                <div class="col-md-4">
+                    <form asp-action="Delete">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="Deletar" class="btn-deletar" /> 
+                    </form>
+                </div>
+            </div>
+
+            <div>
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </body>
+</html>

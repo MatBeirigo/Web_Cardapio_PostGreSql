@@ -1,0 +1,126 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;800&display=swap');
+
+.body-home {
+    background-image: url(../Img/bg-home.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.body-bebidas {
+    background-image: url(../Img/bg-bebidas.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.body-lanche {
+    background-image: url(../Img/bg-lanche.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.body-porcao {
+    background: rgb(224,27,27);
+    background: linear-gradient(0deg, rgba(224,27,27,0.8603816526610644) 0%, rgba(255,255,255,1) 100%);
+    /*background-image: url(../Img/bg-porcao.jpg);*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+    color: #bfd4e3;
+}
+
+h4 {
+    margin-right: auto;
+    padding-left: 10px;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:300;
+
+    margin-bottom: 5px;
+    color: black;
+}
+
+p{
+    margin-top:15px;
+    margin-bottom:-5px;
+}
+
+.table {
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.80);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 20px;
+}
+
+.row {
+    font-family: 'Open Sans', sans-serif;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    font-weight:200;
+
+}
+
+.btn-create {
+    font-family: 'Open Sans', sans-serif;
+
+    margin-bottom: 15px;
+    border-radius: 200px;
+    border-style: none;
+
+    height: 35px;
+    width: 90px;
+
+    float:right;
+
+    color: white;
+    background-color: #32ea15;
+}
+
+.btn-editar {
+    font-family: 'Open Sans', sans-serif;
+
+    margin-bottom: 15px;
+    border-radius: 200px;
+    border-style: none;
+
+    height: 35px;
+    width: 90px;
+
+    float: right;
+    color: white;
+    background-color: #0548b1;
+}
+
+.btn-deletar {
+    font-family: 'Open Sans', sans-serif;
+
+    margin-bottom: 15px;
+    border-radius: 200px;
+    border-style: none;
+
+    height: 35px;
+    width: 90px;
+
+    float: right;
+    color: white;
+    background-color: #ff0000;
+}
+

@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebCardapioSQL
+build_property.RootNamespace = WebCardapioSQL
+build_property.ProjectDir = C:\Users\ppcon041\source\repos\WebCardapioSQL\WebCardapioSQL\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ppcon041\source\repos\WebCardapioSQL\WebCardapioSQL
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Bebidas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Bebidas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Bebidas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Bebidas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Bebidas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWRhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Lanche/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Lanche/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Lanche/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Lanche/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Lanche/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Porcaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9yY2Fvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Porcaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9yY2Fvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Porcaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9yY2Fvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Porcaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9yY2Fvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Porcaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9yY2Fvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ppcon041/source/repos/WebCardapioSQL/WebCardapioSQL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5283cz41q4

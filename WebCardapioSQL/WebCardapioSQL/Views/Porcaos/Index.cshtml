@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebCardapioSQL.Models.Porcao>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="~/css/DesignToken.css">
+    </head>
+
+    <body class="body-porcao">
+        <h1>Cardápio de Porções</h1>
+        <hr />
+        <p>
+            <a asp-action="Create">Adicionar Porção</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+        @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Detailhes</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    </td>
+                </tr>
+        }
+            </tbody>
+        </table>
+    </body>
+</html>
